@@ -24,7 +24,7 @@ while counter < 10:
         plt.draw()
         plt.pause(5)
         plt.close()
-
+print("proov")
     def arvamine(pakkumine):
         if pakkumine == riiginimi:
            return "Õige!"
